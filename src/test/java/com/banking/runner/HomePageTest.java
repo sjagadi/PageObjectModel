@@ -22,11 +22,9 @@ public class HomePageTest
 		homePage.ClickCustomerLogin();
 	}
 	
-	@Test
-	public void FailTest()
-	{
-		Assert.assertTrue(false);
-	}
+	/*
+	 * @Test public void FailTest() { Assert.assertTrue(false); }
+	 */
 	
 	@AfterMethod
 	public void tearDown()
