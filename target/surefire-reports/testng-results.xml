@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.banking.runner.HomePageTest" duration-ms="13985" started-at="2019-02-18T17:00:25Z" finished-at="2019-02-18T17:00:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13985" started-at="2019-02-18T17:00:25Z" finished-at="2019-02-18T17:00:39Z">
+      <class name="com.banking.runner.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.banking.runner.HomePageTest@b97c004]" name="setUp" is-config="true" duration-ms="12932" started-at="2019-02-18T17:00:25Z" finished-at="2019-02-18T17:00:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest()[pri:0, instance:com.banking.runner.HomePageTest@b97c004]" name="loginPageTest" duration-ms="329" started-at="2019-02-18T17:00:38Z" finished-at="2019-02-18T17:00:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.banking.runner.HomePageTest@b97c004]" name="tearDown" is-config="true" duration-ms="697" started-at="2019-02-18T17:00:38Z" finished-at="2019-02-18T17:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.banking.runner.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.banking.runner.HomePageTest -->
+</testng-results>
